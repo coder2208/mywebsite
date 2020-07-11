@@ -58,7 +58,8 @@
 
   //Disclaimer Popup
   $('#disclaimerModel').modal({
-  keyboard: false
+  'keyboard': false,
+  'backdrop':'static'
 
 });
 
